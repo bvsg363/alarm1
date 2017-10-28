@@ -17,7 +17,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 
-//commit
+//commiting
 
 public class MainActivity extends AppCompatActivity {
 
